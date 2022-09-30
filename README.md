@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iwpraveen
 - 👀 I’m interested in Entrepreneurship, Open AI.
-- 🌱 I’m currently learning Storytelling through Technology.
-- 💞️ I’m looking to collaborate on AI for Good.
+- 🌱 I’m currently COO at @clappithq
+- 💞️ I’m looking to collaborate on Cloud & AI for Good.
 - 📫 How to reach me at Twitter @iwpraveen
 
 <!---
