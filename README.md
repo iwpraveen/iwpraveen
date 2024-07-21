@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iwpraveen
-- 👀 I’m interested in Entrepreneurship, Cloud Computing & Open AI.
-- 🌱 I’m currently leading as COO at [Clappit](https://twitter.com/clAppItAI)
+- 👀 I’m interested in Entrepreneurship, DevOps, Cloud Computing & AI.
+- 🌱 I’m currently leading as a Co-Founder at [Clappit](https://clappit.ai)
 - 💞️ I’m looking to collaborate on Cloud & AI for Good.
-- 📫 How to reach me on Twitter? I'm here 👉 [Praveen](https://twitter.com/iwpraveen)
+- 📫 How to reach me on **X**? I'm here 👉 [Praveen](https://x.com/iwpraveen)
 
 <!---
 iwpraveen/iwpraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
